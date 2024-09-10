@@ -3,9 +3,9 @@
 This Flutter application demonstrates how to fetch and display data from an API with search functionality. It includes a search bar to filter items and a confirmation dialog that appears when a button is pressed.
 
 # Features
-1:) Data Fetching: Retrieves a list of items from an external API.
-2:) Search Functionality: Allows users to filter the displayed items by title.
-3:) User Interaction: Displays a confirmation dialog with options to proceed or cancel an action.
+* Data Fetching: Retrieves a list of items from an external API.
+* Search Functionality: Allows users to filter the displayed items by title.
+* User Interaction: Displays a confirmation dialog with options to proceed or cancel an action.
 
 # User Interface
 1:) App Bar: Provides a consistent header with a title.
