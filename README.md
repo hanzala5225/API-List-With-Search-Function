@@ -1,16 +1,19 @@
-# test_interview
+# API-LIST with Search Function
 
-A new Flutter project.
+This Flutter application demonstrates how to fetch and display data from an API with search functionality. It includes a search bar to filter items and a confirmation dialog that appears when a button is pressed.
 
-## Getting Started
+# Features
+1:) Data Fetching: Retrieves a list of items from an external API.
+2:) Search Functionality: Allows users to filter the displayed items by title.
+3:) User Interaction: Displays a confirmation dialog with options to proceed or cancel an action.
 
-This project is a starting point for a Flutter application.
+# User Interface
+1:) App Bar: Provides a consistent header with a title.
+2:) Search Bar: Enables users to input search queries and filter the list.
+3:) List Items: Shown in a card layout for better visual separation.
+4:) Proceed Button: Triggers a confirmation dialog before proceeding with an action.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Dependencies
+1:) Flutter Material: Provides the core widgets and themes.
+2:) HTTP: Used for making network requests.
+3:) Dart Convert: Handles JSON data decoding.
